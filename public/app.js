@@ -85,7 +85,7 @@ async function getFoursquare(business) {
         method: 'GET',
         headers: {
           Accept: 'application/json',
-          Authorization: 'fsq3RHoyrZJoKSGiKppA7Mgg/bJwOO6+jVHTmC3R59baYi0='
+          Authorization: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
         }
     };
     
